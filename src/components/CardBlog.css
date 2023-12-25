@@ -1,0 +1,6 @@
+.blogback{
+    background-image: url('../assets/imgs/scrollback.png');
+    width: auto;
+    position: relative;
+    height: 800px;
+}
